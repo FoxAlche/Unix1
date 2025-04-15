@@ -1,0 +1,8 @@
+name: amplicon-general
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
